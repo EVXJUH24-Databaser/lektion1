@@ -60,6 +60,8 @@ Installera WSL (för Windows): <https://learn.microsoft.com/en-us/windows/wsl/in
 
 Installera Docker Desktop: <https://docs.docker.com/desktop/>
 
+![illustration](https://github.com/EVXJUH24-Databaser/lektion1/blob/main/docker-illustration.png?raw=true)
+
 ---
 
 ## Installera PostgreSQL
